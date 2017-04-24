@@ -29,7 +29,7 @@ namespace WorkMonitor
         public static String SUNSAT = "SundaySaturday";
         public String saveFile;
 
-        //private clas variables
+        //private class variables
         private String workWeek;
         private Dictionary<String, String[]> records;
 
